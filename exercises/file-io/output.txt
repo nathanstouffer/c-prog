@@ -1,0 +1,5 @@
+Distance 1: 1.00
+Distance 2: 4.47
+Distance 3: 1.41
+Distance 4: 1.00
+Distance 5: 4.00
